@@ -1,0 +1,57 @@
+                            ÉÍÍÍÍÍÍÍÍÍÍ»
+			    º   SHET   º
+                            ÈÍÍÍÍÍÍÍÍÍÍ¼
+	      ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+	      ³ Spreadsheet calculator for UTIX systems ³
+	      ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+	Multiuser, multisystem design ³
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+		 Available on UNIX/UTIX systems
+		 Uses standart TERMCAP to support virtually all terminals
+
+	Power capabilities ³
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+		 Multilanguage menu system
+		 Spreadsheet + Graphics
+		 Uses terminal keypad
+		 Colours through TERMCAP
+
+	Extended functionality ³
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+		 On-line terminal and printer graphics
+		 Optimal memory management
+		 Multilanguage help and messages
+		 Spreadsheet size: 4095 rows by 702 columns
+		 Can utilize full address space provided by the UNIX
+		 Write tables in TBL format for NROFF formatting
+
+  SHET is the multiuser multilanguage spreadsheet which offers SC3
+   functionality. All the capability of the world's most popular business
+   software are now available under UNIX/UTIX. Familiar DOS applications
+   can be combined with the power of the UTIX system.
+
+  Integrated spreadsheet and graphics provide a consistent user
+   interface. Reports can be generated quickly and easily using TBL
+   and NROFF.
+
+  Multilanguage menu, help, message system supports now english and
+   russian languages and is fully configurable.
+
+  Terminal and printer graphics supports now VT241 and epson-80 and may
+   be reprogrammed for any other graphic device (Tek4014 etc).
+
+                       ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                       ³ Feature Listing ³
+                       ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+		 Mathematical, Logical, Special Functions
+		 Natural Automatic and Manual Recalculation
+		 Left, Right, Center Formatting
+		 Cell and Range Operations
+		 Calculation Error Detection
+		 Language Switching
+		 Cell Editing
+		 Write tables to file in TBL and PLOT format
+		 Line, Bar, Pie, Stacked Bar Graph Types
+		 Graph Printing and Viewing
+

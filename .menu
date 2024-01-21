@@ -1,0 +1,23 @@
+m       Make sc
+	make
+
+s       How to make
+	make -n
+
+l       Lint source code
+	make lint
+
+i       Install sc to /usr/local/bin
+	make install
+
+c       Clean current directory
+	-make clean
+
+w       Count lines in source code
+	wc *.h *.c
+
+b       Remove bak files
+	-@rm -f *.b .*.b
+
+d       Rebuild Makefile
+	mkmf

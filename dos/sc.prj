@@ -1,0 +1,26 @@
+gram main decomp cmds eval mem sync (sc.h)
+command (sc.h state.h graph.h)
+graph (sc.h graph.h)
+scr (scr.h)
+term (sc.h scr.h)
+help (sc.h scr.h)
+file (sc.h graph.h)
+ut (sc.h graph.h)
+mesg
+gamma
+draw (draw.h dglob.h)
+drawpie (draw.h dglob.h)
+drawxy (draw.h dglob.h)
+drawut (draw.h dglob.h)
+tplot (tplot.c tpmsdos.c tp85.c)
+pplot
+eps
+cvt
+tty
+cap
+key
+ctype
+cga.obj
+egavga.obj
+herc.obj
+
